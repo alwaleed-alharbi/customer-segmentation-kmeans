@@ -1,10 +1,10 @@
 # Customer Segmentation: Rules vs. K-means Clustering
 
-A small learning project from my **Bachelor's in Data Analysis** (in progress).
+A learning project from my **Bachelor's in Data Science and Analytics** (in progress).
 
 I work in customer experience, and I usually see customers grouped with simple rules like *"if spend is high → priority customer"*. In this project I compare that approach with **K-means clustering**, where the data finds the groups by itself.
 
-The project combines three topics I studied this week:
+The project combines three topics from my coursework:
 
 | Topic | Where it's used in the project |
 |---|---|
